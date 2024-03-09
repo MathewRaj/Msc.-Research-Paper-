@@ -1,8 +1,13 @@
 # Msc.-Research-Paper-
 Research Paper
 
-The repository have been created only to showcase the research papers completed in the field machine learning and deep learning.
+The repository has been created  to showcase the Research paper submitted in the field of Machine learning and Deep learning. 
 
-Algorithmic Trading Bot:
+An Expert Advisor Using GRU : 
 
-This research paper mainly discusses about the time series forecasting prediction by most effective machine learning and deep learning algorithms. These models are trained to predict the bitcoin closing price on the lower timeframe (For Ex: In this paper, the models has been trained with the one minute data). After training and testing the different models, the best model is fed to our trading bot and that takes the trades based on our model prediction.
+This research paper mainly discusses about time series forecasting by one of the most effective neural network deep learning models. These models are trained by obtaining historical data. 
+
+We have used the US Dollar against the Canadian Dollar pair on a 5minute time interval. We have trained and tested it in a GRU model with 10k data points which has four inputs (open ,high, low, close prices) and one output ( close price).
+
+Strategy : 
+Buy/Sell strategy  is based on two technical indicators: Bollinger Bands and the Stoichastic RSI. 
