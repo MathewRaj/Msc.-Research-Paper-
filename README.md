@@ -1,7 +1,6 @@
 # Msc.-Research-Paper-
-Research Paper
 
-The repository has been created  to showcase the Research paper submitted in the field of Machine learning and Deep learning. 
+This repository has been created  to showcase the Research paper submitted in the field of Machine learning and Deep learning. 
 
 An Expert Advisor Using GRU : 
 
